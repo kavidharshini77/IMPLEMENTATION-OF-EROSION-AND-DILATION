@@ -93,7 +93,7 @@ plt.axis('off')
 ## Output:
 <img width="1427" height="1102" alt="ChatGPT Image Sep 7, 2026, 07_09_42 PM" src="https://github.com/user-attachments/assets/1b38e4e7-b753-44fa-9eed-8ebad51c4254" />
 
-<img width="1437" height="1094" alt="ChatGPT Image Sep 7, 2026, 07_11_48 PM" src="https://github.com/user-attachments/assets/65968b31-8619-4f3c-94d3-5c0bb6deb636" />
+<img width="1437" height="1094" alt="ChatGPT Image Sep 7, 2026, 07_11_48 PM" src="https://github.com/user-attachments/assets/2d8cce24-8e3b-49d3-8764-5e15743fbf65" />
 
 <img width="1428" height="1102" alt="ChatGPT Image Sep 7, 2026, 07_13_09 PM" src="https://github.com/user-attachments/assets/99cc5f90-19a7-49cf-96ff-58b330d736e4" />
 
