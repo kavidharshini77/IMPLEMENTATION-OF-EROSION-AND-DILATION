@@ -91,11 +91,12 @@ plt.axis('off')
 
 ```
 ## Output:
-<img width="1427" height="1102" alt="ChatGPT Image Sep 7, 2026, 07_09_42 PM" src="https://github.com/user-attachments/assets/1b38e4e7-b753-44fa-9eed-8ebad51c4254" />
+<img width="782" height="585" alt="image" src="https://github.com/user-attachments/assets/cecd7319-f3a5-4dec-8b10-78924593a476" />
 
-<img width="1437" height="1094" alt="ChatGPT Image Sep 7, 2026, 07_11_48 PM" src="https://github.com/user-attachments/assets/2d8cce24-8e3b-49d3-8764-5e15743fbf65" />
+<img width="777" height="590" alt="image" src="https://github.com/user-attachments/assets/70c25561-4ef0-4f23-b599-0ea18b5cd7ce" />
 
-<img width="1428" height="1102" alt="ChatGPT Image Sep 7, 2026, 07_13_09 PM" src="https://github.com/user-attachments/assets/99cc5f90-19a7-49cf-96ff-58b330d736e4" />
+<img width="796" height="597" alt="image" src="https://github.com/user-attachments/assets/35e07db6-71cc-4d2b-9f5b-dfc05525406d" />
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
